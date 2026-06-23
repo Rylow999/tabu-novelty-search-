@@ -2,9 +2,9 @@
 
 A multi-platform C/CUDA reference implementation for discovering extreme states in chaotic fitness landscapes.
 
-> **Author:** Luciano Nieto (Argentina)  
-> **License:** The Unlicense (public domain)  
-> **Hardware tested on:** ARM SBC (Raspberry Pi-class), x86-64 laptop
+**Author:** Luciano Nieto (Argentina)  
+**License:** The Unlicense (public domain)  
+**Hardware tested on:** ARM SBC (Raspberry Pi-class), x86-64 laptop
 
 ---
 
