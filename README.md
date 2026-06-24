@@ -136,5 +136,5 @@ If you have access to those resources or that theoretical background, I'd genuin
 
 ## Contact
 
-Luciano Nieto — independent researcher, Argentina.  
+Luciano Benjamín Nieto — independent researcher, Argentina.  
 If you run it, extend it, or find something interesting, open an issue or drop a note.
